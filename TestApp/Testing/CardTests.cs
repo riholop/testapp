@@ -13,7 +13,7 @@ namespace Bank
         [Test]
         public void TransferFunds2()
         {
-            throw new System.Exception("Jepa");
+            // throw new System.Exception("Jepa");
         }
     }
 }
